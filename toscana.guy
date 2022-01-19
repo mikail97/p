@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body { 
+	background-color:lightgray; 
+}
+.highlightme { background-color:#FFFF00; }
+p { 
+	background-color:lightgray; 
+	text-align: center;
+  	font-family: Consolas;
+}
+
+h1 {
+  text-align: center;
+  font-family: Consolas;
+}
+
+h2 {
+  text-align: center;
+  font-family: Consolas;
+}
+
+</style>
+</head>
+<body>
+
+<h1>LATEST PLAYLIST AVAILABLE</h1><p><b>
